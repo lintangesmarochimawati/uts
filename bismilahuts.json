@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Stasiun Bekasi",
+        "waktu": "30 Desember 2023",
+        "jejak saya": "https://github.com/lintangesmarochimawati/foto-uts/blob/main/st%20bekasi.jpg?raw=true"
+      },
+      "geometry": {
+        "coordinates": [
+          106.99874453959018,
+          -6.236241748471372
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Stasiun Kiaracondong",
+        "waktu": "19 Desember 2023",
+        "jejak saya": "https://github.com/lintangesmarochimawati/foto-uts/blob/main/st%20kiaracondong.jpg?raw=true"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6462754661211,
+          -6.924748195495482
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Stasiun Yogyakarta",
+        "waktu": "19 Desember 2023"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3633241169021,
+          -7.7892991981979804
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    }
+  ]
+}
