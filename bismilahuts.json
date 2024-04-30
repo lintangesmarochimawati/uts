@@ -1,0 +1,655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Stasiun Bekasi",
+        "waktu": "30 Desember 2023",
+        "jejak saya": "https://github.com/lintangesmarochimawati/foto-uts/blob/main/st%20bekasi.jpg?raw=true"
+      },
+      "geometry": {
+        "coordinates": [
+          106.99874453959018,
+          -6.236241748471372
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Stasiun Kiaracondong",
+        "waktu": "19 Desember 2023",
+        "jejak saya": "https://github.com/lintangesmarochimawati/foto-uts/blob/main/st%20kiaracondong.jpg?raw=true"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6462754661211,
+          -6.924748195495482
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Stasiun Yogyakarta",
+        "waktu": "19 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.3633241169021,
+          -7.7892991981979804
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          110.36163465225786,
+          -7.784134208577726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Gedung Perpustakaan (DTK SV UGM)",
+        "waktu": "15 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.3745629617784,
+          -7.774749528625549
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "TILC UGM",
+        "waktu ": "27 Februari 2024",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.3725490118718,
+          -7.773764266221164
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Gedung Daruslan (DTS SV UGM)",
+        "waktu": "5 Maret 2024",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37337872894477,
+          -7.774407971990598
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Wisdom Park UGM",
+        "waktu ": "30 Mei 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.380563715748,
+          -7.775865843529687
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Wisdom Park UGM",
+        "waktu ": "25 Oktober 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.38192525182569,
+          -7.770769160593986
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Selbar Fisipol",
+        "waktu ": "16 Maret 2024",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37922945011877,
+          -7.769511966534239
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Balairung UGM",
+        "waktu": "22 Juni 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37855010027789,
+          -7.7679689843719615
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi ": "Stadion Pancasila",
+        "waktu": "5 November 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.38483070981567,
+          -7.769273484084749
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "MM UGM",
+        "waktu": "28 Oktober 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37544819074975,
+          -7.763765207009996
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Omah Joglo Tanjung",
+        "waktu": "29 Oktober 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37901477428937,
+          -7.702589436210886
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Rumah saya",
+        "waktu": "5 April 2024",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37707706217043,
+          -7.708847881990835
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Sindu Kusuma Edupark",
+        "waktu": "16 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.35545458481039,
+          -7.7662904108802735
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "SGLC FT UGM",
+        "waktu": "13 September 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37228359452229,
+          -7.765282205862931
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi ": "Teknik Kimia UGM",
+        "waktu": "13 September 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.37122863354165,
+          -7.764835583051507
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Rumah DAS",
+        "waktu": "13 September 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.39885635677041,
+          -7.73695176000389
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Waduk Sermo",
+        "waktu": "11 November 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.12358530670195,
+          -7.822825465124495
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi ": "Pakuwon Mall Yogyakarta",
+        "waktu": "8 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.39893059415277,
+          -7.759939029618025
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Bukit Soka Watugupit",
+        "waktu ": "8 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.34666928691684,
+          -8.029561298972396
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Watugupit Paralayang",
+        "waktu": "10 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.34579993343885,
+          -8.026799118970317
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Jalan Lintas Selatan (Bantul)",
+        "waktu": "10 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.31667423652362,
+          -8.010887806416733
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Pantai Depok",
+        "waktu": "10 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.29287630015347,
+          -8.014091690615544
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Pantai Goa Cemara",
+        "waktu": "10 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.25271003764567,
+          -7.99651979288528
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Grand Cordela Hotel",
+        "waktu": "20 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.68787265873772,
+          -6.9369021183477315
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "BPRS HIK Parahyangan",
+        "waktu": "21 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.74401652637187,
+          -6.940630889830601
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Desa Tani Cibodas, Lembang",
+        "waktu": "20 Desember 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.6843959205774,
+          -6.833967673501604
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Kawah Putih Ciwidey",
+        "waktu": "25 Januari 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.40230746282106,
+          -7.166526291962342
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Jl.Asia Afrika Bandung",
+        "waktu": "26 Januari 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.6129256071888,
+          -6.921877846666533
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Gedung Sate",
+        "waktu": "26 Januari 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.61872974603193,
+          -6.9029922928857275
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Rumah saya",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.01524885544035,
+          -6.178285570875346
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Masjid At-Taqwa ",
+        "waktu": "5 Januari 2024",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          108.56242572883383,
+          -6.775153980871721
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Keraton Kasepuhan",
+        "waktu": "6 Januari 2024",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          108.5696555892298,
+          -6.723008099488979
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi ": "Kawah Sikidang",
+        "waktu ": "28 Juli 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          109.90462347944259,
+          -7.219900100742876
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Telaga Warna Dieng",
+        "waktu": "28 Juli 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          109.91376866696186,
+          -7.215735440937721
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Dieng Plateu",
+        "waktu": "28 Juli 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          109.90727833584856,
+          -7.21587624793807
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Gunung Api Purba Nglanggeran",
+        "waktu": "4 Juni 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.54415148555921,
+          -7.842160781755538
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Embung Nglanggeran",
+        "waktu": "4 Juni 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.5468084111202,
+          -7.846782434962591
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lokasi": "Pantai Sepanjang",
+        "waktu": "4 Juni 2023",
+        "jejak saya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          110.56667947487233,
+          -8.136750172905963
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    }
+  ]
+}
